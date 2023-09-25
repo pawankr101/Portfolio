@@ -1,7 +1,7 @@
-import './App.css'
+import { AppContainer } from "./App.style";
 
 export default function App() {
   return (
-    <div>App Component</div>
+    <AppContainer>App Component</AppContainer>
   )
 }
